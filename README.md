@@ -1,4 +1,3 @@
-**Desciption**
 It is a basic app which acts as a search engine and helps in translating from one language to another
 
 # Getting Started with Create React App
